@@ -5,9 +5,9 @@ An app that filters cat breeds based on country of origin. App leverages an exte
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot](https://github.com/Adedeji-Taiwo/Catly/blob/main/static/media/catly.png)
+![Screenshot]()
   
-- Live link: https://catly.netlify.app/
+- Live link: https://catlify-app.netlify.app/
 
 ## Third Party Libraries used.
 
